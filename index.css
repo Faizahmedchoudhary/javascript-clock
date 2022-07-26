@@ -1,0 +1,18 @@
+#digital-clock{
+    width: 60vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    margin: auto;
+}
+
+
+body{
+    background-color: #1A1A1A;
+}
+
+p{
+    font-size: 100px;
+    color: #00FF9B;
+}
