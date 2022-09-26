@@ -9,9 +9,9 @@
         var c =  today.getSeconds();
 
      
-    document.querySelector('.hour').innerHTML = a ; 
-    document.querySelector('.minutes').innerHTML = b;
-    document.querySelector('.seconds').innerHTML = c;
+    document.querySelector('.hour').innerHTML = a + ':'; 
+    document.querySelector('.minutes').innerHTML = b + ':';
+    document.querySelector('.seconds').innerHTML = c + ':';
 
 
 
